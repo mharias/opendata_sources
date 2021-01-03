@@ -8,8 +8,7 @@ Best repository I have found, likely more sources below are embeded here: https:
 * http://datos.madrid.es/portal/site/egob
 
 * https://www.reputationinstitute.com/http://www.oxfordeconomics.com/forecasts-and-models/countries/briefings-and-outlook/country-economic-forecasts/overview
-                          <DT>
-                            <A HREF="https://www.europeandataportal.eu/es/homepage">Página de inicio - Portal Europeo de Datos</A>
+* https://www.europeandataportal.eu/es/homepage
                         <DT>
                             <A HREF="http://gs.statcounter.com/">StatCounter Global Stats - Browser, OS, Search Engine including Mobile Usage Share</A>
                         <DT>
