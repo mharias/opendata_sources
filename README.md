@@ -3,11 +3,11 @@ Repository to store all the open data sources I can find through internet
 
 Best repository I have found, likely more sources below are embeded here: https://github.com/awesomedata/awesome-public-datasets
 
-https://ourworldindata.org
+* https://ourworldindata.org
 
-http://datos.madrid.es/portal/site/egob
+* http://datos.madrid.es/portal/site/egob
 
-https://www.reputationinstitute.com/http://www.oxfordeconomics.com/forecasts-and-models/countries/briefings-and-outlook/country-economic-forecasts/overview
+* https://www.reputationinstitute.com/http://www.oxfordeconomics.com/forecasts-and-models/countries/briefings-and-outlook/country-economic-forecasts/overview
                           <DT>
                             <A HREF="https://www.europeandataportal.eu/es/homepage">Página de inicio - Portal Europeo de Datos</A>
                         <DT>
