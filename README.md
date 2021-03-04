@@ -7,6 +7,8 @@ Best repository I have found, likely more sources below are embeded here: https:
 
 * http://datos.madrid.es/portal/site/egob
 
+* https://vincentarelbundock.github.io/Rdatasets/index.html
+
 * https://www.reputationinstitute.com/http://www.oxfordeconomics.com/forecasts-and-models/countries/briefings-and-outlook/country-economic-forecasts/overview
 * https://www.europeandataportal.eu/es/homepage
                         <DT>
